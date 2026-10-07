@@ -2,6 +2,6 @@ teessttttt
 # Guacamole
 ## Ingredients
 - Avocado
-- Lime
+- Lemon
 - Salt 
 ## Instructions
