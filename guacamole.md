@@ -1,4 +1,3 @@
-teessttttt
 # Guacamole
 ## Ingredients
 - Avocado
